@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ranjit Tanaji Gaikwad</h1>
+<h1 align="center">Hi 👋, I'm Ranjit Gaikwad</h1>
 <h3 align="center">A Passionate DevOps Engineer | Cloud & Automation Enthusiast</h3>
 
 ---
